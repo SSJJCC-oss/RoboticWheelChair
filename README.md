@@ -3,7 +3,7 @@ Project Title: Language Facilitated task planning robot
 A four wheeled robotic wheel chair is realised in a house environment in Webots.
 The controller for the robot is made in Python
 
-The following files are in the zipped folder ;
+The following files are in the folder ;
 
 1. Webot world file named 'Wheelchair_worldfile.wbt' 
    This contains the Wheel chair and the house environment. 
